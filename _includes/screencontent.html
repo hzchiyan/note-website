@@ -1,0 +1,109 @@
+{% assign screenshot_count = 0 %}
+{% for file in site.static_files %}
+    {% if file.path contains 'assets/screenshot/' %}
+        {% assign screenshot_count = screenshot_count | plus: 1 %}
+    {% endif %}
+{% endfor %}
+
+{% if screenshot_count > 0 %}
+<div class="iphoneCarousel" data-screenshot-carousel aria-label="{{ site.app_name }} screenshots">
+    <div class="iphoneCarouselTrack">
+    {% assign screenshot_index = 0 %}
+    {% for file in site.static_files %}
+        {% if file.path contains 'assets/screenshot/' %}
+            <img
+                class="iphoneScreen iphoneSlide"
+                src="{{ file.path | relative_url }}"
+                alt="{{ site.app_name }} screenshot {{ screenshot_index | plus: 1 }}"
+            >
+            {% assign screenshot_index = screenshot_index | plus: 1 %}
+        {% endif %}
+    {% endfor %}
+    </div>
+</div>
+{% endif %}
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    var carousel = document.querySelector("[data-screenshot-carousel]");
+
+    if (!carousel) {
+        return;
+    }
+
+    var track = carousel.querySelector(".iphoneCarouselTrack");
+    var slides = Array.prototype.slice.call(track.querySelectorAll(".iphoneSlide"));
+    var activeIndex = 0;
+    var rotationTimer;
+    var prefersReducedMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+    if (slides.length > 1) {
+        var firstSlideClone = slides[0].cloneNode(true);
+        firstSlideClone.classList.remove("iphoneSlide");
+        firstSlideClone.classList.add("iphoneSlideClone");
+        firstSlideClone.alt = "";
+        firstSlideClone.setAttribute("aria-hidden", "true");
+        track.appendChild(firstSlideClone);
+    }
+
+    function moveToSlide(index, animate) {
+        track.classList.toggle("withoutTransition", !animate);
+        track.style.transform = "translateX(-" + (index * 100) + "%)";
+    }
+
+    function startRotation() {
+        window.clearInterval(rotationTimer);
+        if (slides.length > 1 && !prefersReducedMotion) {
+            rotationTimer = window.setInterval(function () {
+                activeIndex += 1;
+                moveToSlide(activeIndex, true);
+            }, 4500);
+        }
+    }
+
+    track.addEventListener("transitionend", function () {
+        if (activeIndex === slides.length) {
+            activeIndex = 0;
+            moveToSlide(activeIndex, false);
+            window.requestAnimationFrame(function () {
+                window.requestAnimationFrame(function () {
+                    track.classList.remove("withoutTransition");
+                });
+            });
+        }
+    });
+
+    moveToSlide(0, false);
+    window.requestAnimationFrame(function () {
+        track.classList.remove("withoutTransition");
+    });
+    startRotation();
+});
+</script>
+
+{% for file in site.static_files %}
+    {% if file.path contains 'assets/videos/' %}
+        {% unless file.path contains 'assets/videos/Place-video-files-here.txt' %}
+            {% if file.extname == ".mov" or file.extname == ".mp4" or file.extname == ".ogg" or file.extname == ".webm" %}
+                <script>
+                document.addEventListener("DOMContentLoaded", function () {
+                    var carousel = document.querySelector("[data-screenshot-carousel]");
+                    var videoContainer = document.querySelector(".videoContainer");
+                    var video = document.querySelector(".screenvideo");
+                    var source = document.createElement("source");
+
+                    if (carousel) {
+                        carousel.classList.add("hidden");
+                    }
+
+                    videoContainer.classList.remove("hidden");
+                    source.src = "{{ file.path | relative_url }}";
+                    source.type = "{% if file.extname == '.ogg' %}video/ogg{% elsif file.extname == '.webm' %}video/webm{% else %}video/mp4{% endif %}";
+                    video.appendChild(source);
+                    video.load();
+                });
+                </script>
+            {% endif %}
+        {% endunless %}
+    {% endif %}
+{% endfor %}
