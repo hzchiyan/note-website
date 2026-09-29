@@ -6,136 +6,85 @@ include_in_header: false
 
 # Privacy Policy
 
-Effective date: July 14, 2026
-
-WAGA LLC ("WAGA," "we," "us," or "our") provides LightVerse-Bible Verses Widget ("LightVerse"). This Privacy Policy explains how information is handled when you use the LightVerse app, its widgets, subscriptions, and related services (collectively, the "Service").
-
-## 1. Privacy-first product design
-
-LightVerse is designed to work without an account. Your favorites, content preferences, widget settings, reminder settings, and app appearance choices remain on your device and are not transmitted to WAGA.
-
-We do not sell personal information. We do not use personal information for cross-context behavioral advertising, and LightVerse does not include third-party advertising trackers.
-
-## 2. Information handled by the Service
-
-### Information stored locally on your device
-
-The app may store the following information on your device:
-
-- favorite verses and viewing history;
-- selected topics and content preferences;
-- widget size, style, and display settings;
-- reminder times and notification preferences;
-- language and appearance settings; and
-- a photo you choose for a custom background, if that feature is available and you use it.
-
-This information is used to provide and personalize the app. WAGA does not receive it. You can remove local app information by using an available reset control or deleting the app. Deleting the app does not cancel an App Store subscription.
-
-### Purchases and subscriptions
-
-Purchases are processed by Apple through the App Store and StoreKit. WAGA does not receive your payment card or bank account information.
-
-The app may access limited transaction information from Apple, such as the purchased product, transaction status, expiration date, and eligibility to restore a purchase, to unlock Premium features. This information is verified on your device and is not stored on WAGA servers.
-
-If WAGA later uses server-side receipt validation or a subscription management provider, this Policy and the App Store privacy disclosures must be updated before that version is released.
-
-### Customer support communications
-
-If you contact us, we receive the information you choose to provide, such as your email address, message, screenshots, and other details needed to respond. Please do not send sensitive personal information that is not necessary for your request.
-
-### App analytics and diagnostics
-
-WAGA may receive aggregated App Store performance and sales information from Apple. If you choose to share device analytics with app developers through your Apple privacy settings, Apple may also provide diagnostic information such as crash reports and performance data. Apple controls this collection under its own privacy terms and device settings.
-
-LightVerse does not include an independent advertising, attribution, or behavioral analytics SDK. If such technology is introduced later, we will update this Policy and the App Store privacy disclosures before collecting the additional information.
-
-### Notifications
-
-If you enable reminders, the app uses iOS notification permission to deliver the reminders you request. Reminders are scheduled locally on your device, and WAGA does not receive a push notification token. You can disable notifications in iOS Settings.
-
-## 3. How we use information
-
-We use information we receive to:
-
-- provide, maintain, and troubleshoot the Service;
-- verify purchases and enable Premium features;
-- respond to support requests;
-- understand aggregated App Store performance;
-- protect the Service, WAGA, and users from fraud, abuse, or security threats;
-- comply with legal obligations; and
-- establish, exercise, or defend legal claims.
-
-We do not use information about the Bible topics or verses you view to infer, advertise based on, or sell your religious beliefs.
-
-## 4. How we disclose information
-
-We may disclose information in the following limited circumstances:
-
-- **Apple:** to process purchases, provide App Store services, and deliver platform functionality;
-- **Service providers:** to vendors that help us provide support, hosting, security, or business operations, subject to contractual confidentiality and data protection obligations;
-- **Legal and safety:** when reasonably necessary to comply with law, legal process, enforceable government requests, or to protect rights, safety, and security; and
-- **Business transfers:** in connection with a merger, financing, acquisition, bankruptcy, reorganization, or sale of assets, subject to applicable law.
-
-We do not sell personal information or share it for cross-context behavioral advertising.
-
-## 5. Data retention
-
-- Information stored only on your device remains there until you remove it, reset the app, or delete the app.
-- Support communications are retained only as long as reasonably necessary to respond, maintain business records, prevent abuse, and comply with law.
-- Transaction and business records received by WAGA, if any, are retained as required for accounting, tax, fraud prevention, dispute resolution, and legal compliance.
-- Aggregated or de-identified information may be retained when it can no longer reasonably identify you.
-
-When information is no longer needed, we take reasonable steps to delete or de-identify it.
-
-## 6. Your choices and rights
-
-Depending on where you live, you may have rights to request access to, correction of, deletion of, or a copy of personal information we hold about you, and to appeal or object to certain processing.
-
-Because LightVerse does not require an account and most app data remains on your device, WAGA may not possess information that identifies you or can be matched to your request. We will explain this if it applies.
-
+Effective date: September 20, 2026
+Version: 1.2
+VoiceNote is provided by WAGA LLC (“we,” “us,” or “our”). We understand that recordings and notes may contain highly personal information. This Policy explains how VoiceNote handles information and the choices available to you.
+Before publication, replace every item in double brackets with accurate information. This Policy must match the released app, its SDKs, server logs, service providers, and App Store privacy disclosures.
+1. Scope
+This Policy applies to the VoiceNote iPhone app, related websites, customer support, and cloud AI processing services. Once you export content or share it through iOS, the recipient’s or third-party app’s privacy policy applies to its copy.
+2. Information We Process
+2.1 Account Information
+When you use Sign in with Apple, we receive a stable account identifier from Apple and, if you choose to provide them, your name or email address. If you use Hide My Email, we receive Apple’s relay address. We do not receive your Apple ID password.
+2.2 Recordings and Note Content
+VoiceNote may process audio you record or import, titles, transcripts, speaker display names, summaries, tasks, questions and answers, template settings, folders, tags, edits, and timestamp references. This content may include your voice, other people’s voices, and any personal information you choose to record.
+Original recordings and notes are stored on your device by default. When you choose transcription, summarization, Ask VoiceNote, or another cloud AI feature, we securely transmit only the audio, text, and settings needed to complete that request to our servers and contracted processors.
+Speaker labels distinguish voices within a recording; they do not verify a person’s identity. VoiceNote does not perform voiceprint identity recognition unless a future feature clearly says so and all required permissions have been obtained.
+2.3 Purchases and Subscriptions
+Apple processes purchases. We may receive a transaction identifier, subscription product, entitlement status, expiration date, refund status, and renewal status to activate benefits, restore purchases, and prevent duplicate billing. We do not receive your full payment card number or Apple ID payment credentials.
+2.4 Device, Usage, and Diagnostic Information
+To operate and improve the service, we may process app version, iOS version, device model, language, time zone, random installation or task identifiers, feature events, processing stage, duration ranges, network status, crash logs, performance data, and error codes. Our servers may briefly process IP addresses and request times to deliver and secure the service.
+Analytics events do not include recordings, transcript text, summaries, questions, note titles, or login credentials. We do not use this information to track you across other companies’ apps or websites, and we do not sell personal information.
+2.5 Permissions and Optional Features
+● Microphone: requested when you start recording and used to capture audio.
+● Files: accessed only when you choose files to import or locations to export to.
+● Notifications: requested only if you choose processing-completion alerts.
+● Calendar: if a future calendar feature is offered, requested only after you enable it and used for the events you select; the permission prompt and this Policy will describe the processing.
+Declining an optional permission does not disable unrelated features. For example, you can still import audio after declining microphone access.
+3. How We Use Information
+We process information to:
+● record, store, play, import, and export audio and notes;
+● provide transcription, summaries, action items, templates, note-based questions, and timestamp references;
+● create accounts, authenticate users, synchronize subscription entitlements, and restore purchases;
+● show processing progress, retry failed jobs, and prevent duplicate quota charges;
+● provide support, troubleshoot failures, and prevent fraud, abuse, or unauthorized access;
+● understand product usage and performance without analyzing content text; and
+● comply with law and protect users, the public, and our legal rights.
+Where required, our legal bases are performance of a contract, your consent, our legitimate interests, or compliance with legal obligations. You may disable automatic cloud processing or withdraw optional permissions at any time. Withdrawal does not affect processing already lawfully completed.
+4. AI Processing and Model Training
+Cloud AI features may be processed on our behalf by contracted cloud storage, speech-recognition, and generative-AI providers. Providers may process information only under contract and our instructions and must maintain protections at least equivalent to those described here. To ask about our current processor categories and principal processing locations, contact abc@aiwaga.com.
+We do not use your recordings, transcripts, summaries, or questions to train general-purpose AI models for other customers, and we do not permit processors to train their own models on that content, unless we first provide prominent notice and obtain your separate, explicit consent.
+AI outputs may be inaccurate, incomplete, or cite the wrong context. VoiceNote preserves original recordings and source timestamps where possible so you can verify results. Do not rely on AI output alone for medical, legal, financial, safety, or other high-impact decisions.
+5. How We Share Information
+We share information only as follows:
+● Processors that provide hosting, storage, transcription, AI generation, authentication, email, support, crash reporting, or security services;
+● Apple, for Sign in with Apple, App Store purchases, refunds, subscription status, and system services;
+● At your direction, when you export, use the iOS share sheet, or create a revocable sharing link;
+● For law and safety, in response to valid legal process or to prevent fraud, abuse, or imminent safety risks; and
+● In a merger, financing, reorganization, or asset transfer, where permitted by law and subject to continued protection of the information.
+We do not sell recordings or notes, send content text to advertising platforms, or allow processors to use entrusted data for their own advertising or marketing.
+6. Retention
+● On-device content remains until you delete the note or account, uninstall the app, or erase device data. Uninstalling may permanently remove local content that was not exported.
+● Notes in the local Trash are retained for up to 30 days unless you permanently delete them sooner.
+● Cloud AI working copies are removed from active systems within 24 hours after your device confirms receipt of the result. Unfinished jobs and results not yet retrieved by the device are retained for no more than 7 days.
+● When you cancel processing or delete content, pending work stops where possible and related active-system working copies are removed within 24 hours. Encrypted backups expire within 30 days.
+● Diagnostic and security logs that exclude content text are generally retained for 90 days.
+● Transaction and legal records are kept only as long as required for tax, accounting, refunds, fraud prevention, or dispute resolution, separately from content text.
+The released service must technically meet these periods. We will update this Policy and in-product notices before making a material change.
+7. Account and Content Deletion
+You can start account deletion in Settings → Account → Delete Account. VoiceNote provides an export option and asks you to reauthenticate before deletion.
+After a deletion request, we revoke active sessions and stop new cloud processing immediately, remove recordings, transcripts, and AI working copies from active systems within 24 hours, and complete deletion from account systems and service backups within 30 days, except for limited records we must retain by law. VoiceNote content on the device is also removed as explained on the confirmation screen. We cannot retrieve copies that you previously exported or shared with others.
+You may also contact abc@aiwaga.com to request access, correction, export, or deletion. We may verify your identity to protect the account.
+8. Your Choices and Rights
+Depending on where you live, you may have rights to access, correct, delete, restrict, object, receive a portable copy, withdraw consent, or complain to a supervisory authority.
 You may:
-
-- change notification access in iOS Settings;
-- manage or cancel subscriptions in your Apple Account settings;
-- remove locally stored data by resetting or deleting the app; and
-- submit a privacy request to abc@aiwaga.com with the subject "LightVerse Privacy Request."
-
-We may need to verify your request before responding. Authorized agents may submit requests where permitted by law, subject to verification of authority.
-
-## 7. California privacy notice
-
-California residents may have rights under the California Consumer Privacy Act, as amended, subject to legal exceptions. These may include the right to know, access, correct, or delete personal information, and the right not to receive discriminatory treatment for exercising privacy rights.
-
-In the preceding 12 months, WAGA may have handled the following categories when a user contacts support or completes a purchase: identifiers such as an email address; commercial information such as subscription status; internet or electronic activity information in aggregated or diagnostic form; and correspondence or content a user submits to support.
-
-We use and disclose these categories for the business purposes described in this Policy. We do not sell personal information, and we do not share personal information for cross-context behavioral advertising. We do not have actual knowledge that we sell or share the personal information of consumers under 16.
-
-California residents may submit a request at abc@aiwaga.com. Where applicable, you may appeal a decision by replying to our response and stating that you wish to appeal.
-
-## 8. Children's privacy
-
-The Service is not directed to children under 13, and WAGA does not knowingly collect personal information from children under 13. If you believe a child has provided personal information to us, contact abc@aiwaga.com, and we will take appropriate steps to delete it.
-
-## 9. Security
-
-We use reasonable administrative, technical, and organizational safeguards designed to protect information. No method of electronic transmission or storage is completely secure, and we cannot guarantee absolute security.
-
-## 10. International users
-
-WAGA is based in the United States. If you access the Service from another country, information provided directly to WAGA may be processed in the United States or other locations where our service providers operate. We use appropriate safeguards when required by applicable law.
-
-## 11. Third-party services and links
-
-Apple's App Store, Apple Account, StoreKit, iOS, and other Apple services are governed by Apple's own terms and privacy policies. The Service may contain links that open third-party apps or websites. WAGA is not responsible for the privacy practices of those third parties.
-
-## 12. Changes to this Policy
-
-We may update this Policy to reflect changes in the Service, technology, law, or our practices. We will post the updated Policy with a revised effective date and provide additional notice when required by law.
-
-## 13. Contact us
-
-For questions or privacy requests, contact:
-
-WAGA LLC
-
-Email: abc@aiwaga.com
+● withdraw microphone, notification, file, or calendar permissions in iOS Settings;
+● disable automatic cloud processing in VoiceNote settings;
+● delete a note, empty Trash, revoke a sharing link, or delete your account;
+● manage or cancel a subscription in Apple’s subscription settings; and
+● contact abc@aiwaga.com to exercise applicable privacy rights.
+9. Other People in Recordings
+Recordings may contain other people’s personal information. Before recording, importing, transcribing, or sharing, you must comply with local notice, consent, confidentiality, workplace, classroom, and call-recording laws and obtain all required permissions. Recording indicators in VoiceNote do not determine whether a recording is lawful.
+If you believe someone used VoiceNote to process your voice or personal information improperly, contact abc@aiwaga.com with enough information for us to locate the relevant content. We will verify the request and account relationship before taking action.
+10. Security
+We use encryption in transit, access controls, least-privilege access, scoped upload credentials, data separation, auditing, and deletion procedures. No system can be guaranteed completely secure. If a security incident requires notice, we will notify affected users and regulators as required by law.
+Protect your device and Apple account. The first release does not promise cross-device cloud backup; export a backup before changing devices or uninstalling VoiceNote.
+11. International Transfers
+Our servers and processors operate primarily in the United States and may also process information in other countries where our providers operate. When information is transferred outside your country or region, we use safeguards required by applicable law, such as adequacy decisions, standard contractual clauses, or other valid mechanisms.
+If the service is offered in mainland China and involves cross-border transfers, we will provide any additional notice, separate consent, and transfer mechanism required by applicable law. This section must be completed using the actual server and processor locations before launch.
+12. Children
+VoiceNote is not directed to children who are below the age at which they may independently consent in their location. Minors should use VoiceNote only with the consent and supervision of a parent, legal guardian, or authorized educational institution. We do not knowingly collect children’s personal information in violation of applicable law and will take reasonable steps to delete it if discovered.
+13. Changes to This Policy
+We may update this Policy as features, providers, or laws change. We will provide advance in-app or other reasonable notice of material changes and obtain renewed consent when required. The effective date above identifies the current version.
+14. Contact Us
+Data controller/business: WAGA LLC
+Support email: abc@aiwaga.com

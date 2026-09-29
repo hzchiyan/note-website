@@ -6,127 +6,93 @@ include_in_header: false
 
 # Terms of Use
 
-Effective date: July 14, 2026
-
-These Terms of Use ("Terms") govern your use of LightVerse-Bible Verses Widget ("LightVerse") and its related widgets, content, subscription features, and services (collectively, the "Service") provided by WAGA LLC ("WAGA," "we," "us," or "our").
-
-By downloading, accessing, purchasing, or using the Service, you agree to these Terms and our Privacy Policy. If you do not agree, do not use the Service.
-
-## 1. Apple license terms
-
-LightVerse is licensed, not sold. Your license to use the app is also subject to Apple's Licensed Application End User License Agreement (the "Apple Standard EULA"), available at https://www.apple.com/legal/internet-services/itunes/dev/stdeula/. These Terms supplement the Apple Standard EULA for the features and services provided by WAGA. If these Terms conflict with the Apple Standard EULA regarding your license to the app, the Apple Standard EULA controls.
-
-## 2. Eligibility
-
-You may use the Service only if you can legally enter into a binding agreement in your jurisdiction. If you are under the age of legal majority where you live, you may use the Service only with the permission and supervision of a parent or legal guardian. The Service is not directed to children under 13.
-
-## 3. The Service
-
-LightVerse provides Bible verses, Home Screen widgets, content preferences, visual customization, favorites, reminders, sharing tools, and related devotional features. Some functionality may require an internet connection, a compatible Apple device, a supported version of iOS, or an active subscription.
-
-We may improve, update, add, limit, or discontinue features. We will not remove paid access during an active subscription period in a manner that violates applicable law or Apple's requirements.
-
-## 4. Devotional and informational purpose
-
-The Service is intended for personal devotional, educational, and general informational purposes. It does not provide professional pastoral counseling, medical care, mental health treatment, crisis support, legal advice, or other professional services.
-
-If you are experiencing an emergency or believe you may harm yourself or another person, contact local emergency services or a qualified crisis service immediately. Do not rely on LightVerse for emergency assistance.
-
-## 5. Bible text and other content
-
-Bible translations, excerpts, citations, images, fonts, and other materials may be owned by WAGA, in the public domain, or licensed from third parties. Translation names, copyright notices, and attribution requirements will be displayed in the app or accompanying notices where applicable.
-
-You may use the Service and its built-in sharing features for personal, noncommercial purposes. Except where applicable law, a public-domain designation, or a separate license permits otherwise, you may not reproduce, scrape, republish, sell, create a competing database from, or commercially exploit substantial portions of the Service or its content.
-
-WAGA does not guarantee that every translation, paraphrase, topic label, or editorial line will be suitable for every denomination or interpretive tradition. Scripture references should be reviewed in their full context.
-
-## 6. Free features and Premium
-
-LightVerse may offer free features and paid features under "LightVerse Premium." The specific features included in each tier are shown in the app and may change for future purchases. Changes will not reduce the benefits already owed to you during a paid subscription period.
-
-## 7. Auto-renewable subscriptions
-
-LightVerse Premium may be offered through weekly and annual auto-renewable subscriptions.
-
-- The purchase screen displays the subscription name, duration, full price, included benefits, and any trial terms before you confirm a purchase.
-- Payment is charged to your Apple Account when you confirm the purchase.
-- Your subscription renews automatically for the same duration unless you cancel it at least 24 hours before the end of the current subscription period.
-- Apple charges the renewal to your Apple Account according to the price and terms displayed by Apple.
-- You can manage or cancel your subscription from your Apple Account subscription settings.
-- If a free trial is offered, the trial length and the amount charged after the trial will be displayed before purchase. Unless canceled before the trial ends, it converts to the selected paid subscription.
-- Deleting the app does not cancel an active subscription.
-- You can use the Restore Purchases control in the app to restore an eligible purchase on a compatible device using the same Apple Account.
-
-Prices may differ by country, currency, tax, or future pricing changes. The localized price and terms displayed on Apple's purchase confirmation screen at the time of purchase control your transaction.
-
-## 8. Cancellations and refunds
-
-WAGA cannot directly cancel an Apple subscription or issue an App Store refund. You may manage subscriptions in your Apple Account settings and submit refund requests through Apple at https://reportaproblem.apple.com/. Refund eligibility is determined by Apple and applicable law.
-
-## 9. Notifications and device permissions
-
-Features such as reminders or custom backgrounds may require device permissions. Permissions are optional. You can change them in iOS Settings, although disabling a permission may prevent the related feature from working.
-
-## 10. Acceptable use
-
-You agree not to:
-
-- use the Service in violation of any law or third-party right;
-- interfere with, disrupt, damage, or overload the Service;
-- bypass subscription, security, or access controls;
-- reverse engineer the app except where applicable law expressly permits it;
-- use automated means to scrape or extract the content library;
-- impersonate another person or misrepresent your affiliation with WAGA; or
-- use the Service to threaten, harass, exploit, or harm another person.
-
-## 11. Ownership
-
-The Service, including its software, design, branding, original editorial material, and arrangement of content, is owned by WAGA or its licensors and is protected by applicable intellectual property laws. No rights are granted except the limited right to use the Service under these Terms and the Apple Standard EULA.
-
-"LightVerse," associated artwork, and WAGA branding may not be used in a way that suggests sponsorship or endorsement without our written permission.
-
-## 12. Third-party services
-
-The Service relies on Apple services, including the App Store, StoreKit, iOS notifications, widgets, and device settings. Your use of Apple services is governed by Apple's terms and policies. We are not responsible for third-party services outside our control.
-
-## 13. Privacy
-
-Our Privacy Policy explains how information is handled when you use the Service. It is available from within the app and through the Privacy Policy link provided with the App Store listing, and is incorporated into these Terms.
-
-## 14. Suspension and termination
-
-You may stop using the Service at any time. We may suspend or terminate access if you materially violate these Terms, misuse the Service, create security or legal risk, or if we discontinue the Service. Termination does not automatically cancel an Apple subscription; you must cancel through your Apple Account settings.
-
-Sections that by their nature should survive termination, including intellectual property, disclaimers, limitations of liability, and dispute provisions, will survive.
-
-## 15. Disclaimer of warranties
-
-To the maximum extent permitted by law, the Service is provided "as is" and "as available." WAGA disclaims all express, implied, and statutory warranties, including warranties of merchantability, fitness for a particular purpose, title, accuracy, quiet enjoyment, and noninfringement.
-
-We do not guarantee uninterrupted operation, the availability of a particular verse or visual style, or that the Service will meet every spiritual, denominational, or personal need. Nothing in these Terms limits non-waivable consumer rights.
-
-## 16. Limitation of liability
-
-To the maximum extent permitted by law, WAGA and its members, officers, employees, contractors, and licensors will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of data, profits, goodwill, or use, arising from or related to the Service.
-
-To the maximum extent permitted by law, WAGA's total liability for claims relating to the Service will not exceed the greater of (a) the amount you paid to WAGA through the App Store for the Service during the 12 months before the event giving rise to the claim or (b) USD $50. Some jurisdictions do not allow certain exclusions or limitations, so parts of this section may not apply to you.
-
-## 17. Governing law and disputes
-
-These Terms are governed by applicable law, without limiting any mandatory consumer protections that apply where you live. Any dispute must be brought before a court with lawful jurisdiction over the parties and the dispute.
-
-Before filing a claim, you and WAGA agree to make a good-faith effort to resolve the dispute by contacting the other party. You may contact us at abc@aiwaga.com.
-
-## 18. Changes to these Terms
-
-We may update these Terms to reflect changes in the Service, law, or business practices. We will post the updated Terms with a new effective date and provide additional notice when required by law. Your continued use after the effective date means you accept the updated Terms, to the extent permitted by law.
-
-## 19. Apple as third-party beneficiary
-
-Apple and its subsidiaries are third-party beneficiaries of these Terms. When you accept these Terms, Apple has the right to enforce the applicable provisions against you as a third-party beneficiary.
-
-## 20. Contact us
-
-WAGA LLC
-
-Email: abc@aiwaga.com
+Effective date: September 20, 2026
+Version: 1.2
+These Terms are an agreement between you and WAGA LLC (“we,” “us,” or “our”) governing the VoiceNote app, websites, and related services. Apple is not a party to these Terms. Please read these Terms and the VoiceNote Privacy Policy before downloading, creating an account, or using VoiceNote. If you do not agree, do not use the service.
+Before publication, replace every item in double brackets with accurate information and have the Terms reviewed for the operator’s jurisdiction and each distribution region.
+1. The Service
+VoiceNote provides local audio recording, import, and playback and, at your request, may provide cloud transcription, summaries, action-item extraction, templates, note-based questions, search, editing, export, and sharing. Available features, languages, quotas, and platforms depend on the version you use and the purchase screen.
+Some local features may work without an account. Cloud AI, subscriptions, and entitlement restoration may require Sign in with Apple. An internet connection, sufficient storage, system permissions, and a compatible iOS version may be required for certain features.
+2. Eligibility and Accounts
+You must be old enough to enter into these Terms in your location. Otherwise, a parent or legal guardian must consent to and supervise your use. You must provide lawful, accurate information and protect your device, Apple account, and credentials.
+You may not sell, rent, or transfer your account. Notify us at abc@aiwaga.com if you suspect unauthorized use. Subject to applicable law, you are responsible for activity conducted through your account when reasonable safeguards are in place.
+3. Recording Laws and Consent
+Recording and call-consent rules vary by country, state, workplace, classroom, healthcare setting, and type of communication. Before recording, importing, transcribing, or sharing content, you must:
+● notify everyone involved and obtain all required consent;
+● confirm that you have the right to process, upload, edit, and share the audio and text;
+● comply with privacy, data protection, communications secrecy, intellectual property, and industry rules; and
+● avoid secret, deceptive, harassing, or otherwise unlawful recording.
+VoiceNote’s recording indicator, sound, or notice does not replace your legal obligations. We cannot determine whether a particular recording is lawful or whether participants have consented.
+4. AI Features and Limitations
+Transcripts, speaker separation, summaries, tasks, answers, and rewrites are generated by automated systems and may be incomplete, inaccurate, delayed, or contextually wrong. Speaker labels distinguish voices; they do not verify identity.
+Verify names, numbers, dates, decisions, quotations, and action items against the original recording. VoiceNote does not provide medical, legal, financial, employment, safety, or other professional advice and must not be the sole basis for a high-impact decision. In a healthcare context, VoiceNote organizes recorded information only and does not provide a diagnosis, prescription, or treatment recommendation.
+Instructions spoken or written within a recording are treated as content, not as commands to the service. VoiceNote does not automatically send email, make promises, transfer money, or operate other accounts based on a recording.
+5. Local Content, Cloud Processing, and Backups
+Original recordings and notes are stored on your device by default. Content needed for cloud AI is uploaded only when you request that feature. See the VoiceNote Privacy Policy for processing and retention details.
+You are responsible for keeping an independent backup of important material. The first release does not promise cross-device restoration or cloud backup. Uninstalling the app, losing or damaging a device, erasing system data, permanently deleting a note, or deleting an account may permanently remove content that was not exported.
+We take reasonable steps to protect recordings and processing jobs, but cannot guarantee recovery from every device failure, operating-system interruption, network problem, or event beyond our reasonable control.
+6. Your Content and Our Limited License
+As between you and us, you retain the rights you have in your recordings, imported files, notes, edits, and outputs. You represent that you own the content or have the rights and permissions required to use it.
+You grant us a limited, non-exclusive, worldwide, royalty-free license to host, copy, transform, transmit, and process content for as long as necessary to provide, secure, and support the features you request. This license ends when the content or account is deleted under the Privacy Policy, except for limited records we are legally required to keep.
+We do not acquire ownership of your content merely because you use VoiceNote. We do not use it to train general-purpose AI models for other customers without your separate, explicit consent.
+7. Acceptable Use
+You may not use VoiceNote to:
+● violate another person’s privacy, publicity, voice, copyright, trade-secret, or other rights;
+● conduct unlawful surveillance, stalking, harassment, threats, discrimination, fraud, impersonation, or defamation;
+● process credentials, payment data, or highly sensitive information you have no right to obtain;
+● distribute malware or attack, interfere with, or bypass security, quota, or access controls;
+● scrape, resell, automate at scale, or train a model on the service without permission;
+● reverse engineer or attempt to derive source code, except where applicable law expressly permits it; or
+● present AI output as a verified human record or exact quotation when it has not been checked.
+We may investigate suspected abuse and, where reasonably necessary, limit features, pause processing, or terminate an account. Immediate action may be required for urgent safety risks or legal obligations.
+8. Free Allowances, Subscriptions, and Purchases
+VoiceNote may offer a free allowance and auto-renewable monthly or annual VoiceNote Pro subscriptions. The subscription name, duration, benefits, available AI minutes or requests, full localized price, and any trial terms are shown on the purchase confirmation screen.
+● Apple processes payment through your Apple Account and charges it when you confirm the purchase.
+● An auto-renewable subscription continues until you cancel it through Apple before the end of the current billing period. After cancellation, access normally continues through the paid period.
+● You can manage or cancel in iOS Settings → Apple Account → Subscriptions or through VoiceNote’s Manage Subscription link.
+● Restore Purchases restores an eligible entitlement; it does not recover deleted or unbacked-up local notes.
+● Apple handles refunds under its policies. We do not receive your complete payment credentials and cannot guarantee that Apple will approve a refund.
+● Expiration does not prevent access to or export of existing on-device recordings and notes, but new cloud AI use may require an entitlement or available quota.
+● Unless the purchase screen expressly states otherwise, unused allowances do not roll over, have cash value, or transfer to another account.
+If a free trial is offered, the purchase screen will clearly show its duration and the renewal price after the trial. The localized system confirmation screen controls the actual price and duration.
+9. Export, Sharing, and Public Links
+When you export or use the iOS share sheet, recipients and third-party apps process their copies under their own terms. A completed share action does not mean the recipient read or deleted the content.
+If VoiceNote offers public links, content becomes accessible only after you create a link. You are responsible for choosing its access scope and expiration and distributing it securely. Revocation blocks future access through that link but cannot retrieve copies another person already downloaded, copied, or reshared.
+10. Intellectual Property
+VoiceNote’s software, brand, interface, templates, documentation, and service technology are owned by us or our licensors. No intellectual property is transferred except for the limited right to use the service under these Terms.
+To report infringement, contact abc@aiwaga.com with proof of rights, the content location, contact details, and a good-faith statement. We, not Apple, are responsible for intellectual-property claims involving VoiceNote.
+11. Service Changes and Availability
+We may improve, add, limit, or discontinue features for security, legal, technical, or business reasons. If a change materially affects paid benefits, we will provide notice and an appropriate remedy as required by law.
+Cloud processing may be unavailable because of maintenance, connectivity, operating-system restrictions, providers, or force majeure. We will use reasonable efforts to restore the service and will not represent a failed job as successfully processing.
+12. Sign-Out, Suspension, and Deletion
+Signing out does not automatically delete local content. Account deletion revokes access and begins deletion under the Privacy Policy; previously exported copies cannot be recovered.
+You may stop using the service at any time. We may suspend or terminate an account for a serious or repeated breach, security risk, or legal requirement, with notice and an appeal path where reasonably available. Termination does not affect prior payment obligations, statutory rights, or provisions that by their nature survive.
+13. Third-Party Services
+VoiceNote may use Apple, cloud hosting, transcription, AI, diagnostics, and support services. Those services may have their own terms. We contractually restrict processors acting for us, but we do not control third-party apps, sites, or recipients that you independently choose.
+14. Disclaimers
+To the maximum extent permitted by law, VoiceNote is provided “as is” and “as available.” We do not warrant uninterrupted operation, absolute security, universal recovery, or complete accuracy of any transcript, summary, task, answer, or speaker label.
+Nothing in these Terms excludes warranties, remedies, or consumer rights that applicable law does not allow us to exclude.
+15. Limitation of Liability
+To the maximum extent permitted by law, we are not liable for indirect, incidental, special, punitive, or consequential losses, or loss of profits, goodwill, data, or opportunity. Our aggregate liability for all claims arising from the service will not exceed the amount you paid for VoiceNote in the 12 months before the event giving rise to the claim or US$100, whichever is greater.
+These limits do not apply to intentional misconduct, gross negligence, personal injury, fraud, non-excludable data-protection duties, or liability that applicable law does not permit us to limit.
+16. Indemnity
+To the extent permitted by law, if your unlawful recording, unauthorized upload or disclosure, infringement, or serious breach causes a third-party claim against us, you agree to cover our reasonable resulting losses and costs. This section does not apply where local consumer law prohibits it.
+17. Governing Law and Disputes
+These Terms are governed by the laws that are binding on WAGA LLC, the service, and you, without taking away mandatory consumer rights in your place of residence. Before filing a claim, the parties should first attempt to resolve the dispute by contacting abc@aiwaga.com. If it cannot be resolved, either party may bring a claim before a court of competent jurisdiction. This section does not limit a consumer’s right to seek relief from a local court, regulator, or other forum available under applicable law.
+18. Apple App Store Terms
+If you obtained VoiceNote from Apple’s App Store:
+1. These Terms are between you and us, not Apple. We alone are responsible for VoiceNote and its content.
+2. Subject to the Usage Rules in the Apple Media Services Terms and Conditions, we grant you a non-transferable license to use VoiceNote on Apple-branded products you own or control. Family Sharing and other Apple-permitted uses remain available where applicable.
+3. Apple has no obligation to provide maintenance or support. We provide support at abc@aiwaga.com.
+4. If VoiceNote fails to conform to an applicable warranty, you may notify Apple and, where applicable, Apple may refund the purchase price of the app itself. To the maximum extent permitted by law, Apple has no other warranty obligation.
+5. We, not Apple, are responsible for product-liability, regulatory, consumer-protection, privacy, or other claims involving VoiceNote or its use.
+6. We, not Apple, are responsible for investigating, defending, settling, and resolving intellectual-property claims involving VoiceNote.
+7. You represent that you are not located in a country or region subject to a U.S. Government embargo and are not on a U.S. Government prohibited or restricted-party list. You will comply with applicable third-party terms.
+8. Apple and its subsidiaries are third-party beneficiaries of these Terms. Upon your acceptance, Apple may enforce this section as a third-party beneficiary.
+9. Apple’s Standard End User License Agreement applies where relevant. If these Terms conflict with Apple’s mandatory Usage Rules, those rules control.
+Apple Standard EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+19. Changes to These Terms
+We may update these Terms. We will provide in-app or other reasonable notice of material changes and obtain renewed agreement where required. Continued use after the effective date constitutes acceptance, but does not retroactively reduce statutory consumer rights that have already accrued.
+20. Contact
+Service provider: WAGA LLC
+Support: abc@aiwaga.com
