@@ -80,10 +80,10 @@ features                                  :
 # Theme Settings
 topbar_color                              : "#E7F0E6"
 topbar_transparency                       : 0.8
-topbar_title_color                        : "#ffffff"
+topbar_title_color                        : "#000000"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#7F674E"
+cover_overlay_color                       : "#000000"
 cover_overlay_transparency                : 0.7
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
